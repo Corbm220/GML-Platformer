@@ -16,5 +16,14 @@ A GML Starter kit for the **Platformer Tutorial (GML) - Parts 1 & 2**
 The assets and video tutorials were created by [Shaun Spalding](https://www.youtube.com/c/ShaunSpalding).
 Check out Shaun's amazing collections of videos.
 
-Megan to Mr Winneka:
-This is me editing the ReadMe file to say what mechanics and features I used. I watched videos 1 and 2, plus a video on movement between rooms. I did everything in the videos, plus added 2 extra rooms and features to send the player back to the first room in they fall out of the frame.
+Features:
+ * Watched videos 1 and 2 completed, plus a video on movement between rooms
+ * Movement/gravity/speeds
+ * Collisions
+ * Changed room setups
+ * Animated idle cycle, walk cycle, and jump cycle
+ * Backgrounds for rooms; with color, grain, and moving clouds
+ * Tileset
+ * 3 rooms 
+ * Warp objects for movement between rooms
+ * Warp objects to send the player back to the first room if they fall out of the frame
