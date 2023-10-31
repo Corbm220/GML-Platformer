@@ -13,7 +13,7 @@
     "name": "spr_player",
     "path": "sprites/spr_player/spr_player.yy",
   },
-  "persistent": false,
+  "persistent": true,
   "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
