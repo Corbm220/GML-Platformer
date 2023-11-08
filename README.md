@@ -21,6 +21,7 @@ Features:
  * Movement/gravity/speeds
  * Collisions
  * Changed room setups
+ * Added my own sprite for player
  * Animated idle cycle, walk cycle, and jump cycle
  * Backgrounds for rooms; with color, grain, and moving clouds
  * Tileset
